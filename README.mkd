@@ -1,0 +1,11 @@
+# Simple HTTP API Service with Nameko Framework
+
+## Run example
+1. Install requirements: `pip install -r requirements.txt`
+2. Run `nameko run service` in a terminal
+3. Run `python requests_examples.py` in another terminal
+
+## Nameko documentation
+* [GitHub repo](https://github.com/nameko/nameko)
+* [Docs](https://nameko.readthedocs.io)
+* [More HTTP examples](https://nameko.readthedocs.io/en/stable/built_in_extensions.html#http)
